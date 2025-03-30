@@ -28,6 +28,17 @@ The dataset contains Bitcoin price data at 1-minute intervals (high-frequency da
 
 The dataset starts at January 1, 2012 and contains data points up to at least January 3, 2012.
 
+### Key Steps in the Workflow
+
+1. Data cleaning
+
+2. Model training
+- Differencing (ARIMA), sequence modeling (LSTM), and uncertainty intervals (Prophet)
+
+3. Evaluation
+
+4. Visualization
+  
 ### Model Performance
 
 - ARIMA	9,170.62
